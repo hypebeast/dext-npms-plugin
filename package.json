@@ -1,0 +1,21 @@
+
+{
+  "name": "dext-npms-plugin",
+  "version": "0.1.0",
+  "description": "Dext plugin to search npms.io for npm packages.",
+  "keywords": [
+    "dext",
+    "dext-plugin",
+    "npm",
+    "npms"
+  ],
+  "main": "index.js",
+  "author": "Sebastian Ruml <sebastian@sebastianruml.name>",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^6.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0"
+  }
+}
