@@ -23,11 +23,6 @@ module.exports = {
     got(ENDPOINT, opts)
       .then(res => {
         if (res.body) {
-          res.body.results
-            .map(i => {
-              console.log(i);
-              console.log(i.module.description);
-            })
           const items = res.body.results
             .map(i => Object.assign({}, {
               title: i.module.name,
