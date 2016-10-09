@@ -7,7 +7,7 @@ module.exports = {
   keyword: 'npm',
   action: 'openurl',
   helper: {
-    title: 'Search for packges in the npm registry',
+    title: 'Search for packages in the npm registry',
     subtitle: 'Example: npm promise',
     icon: {
       path: './icon.png',
