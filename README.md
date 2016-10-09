@@ -1,6 +1,8 @@
 # dext-npms-plugin
 
-> Dext plugin to search npms.io for npm packages.
+> [Dext](https://github.com/vutran/dext) plugin to search [npms.io](https://npms.io) for npm packages.
+
+![](screenshot.png?raw=true)
 
 ## Install
 
@@ -13,6 +15,10 @@ $ dpm install dext-npms-plugin
 ## Usage
 
 In Dext, type `npm`, then your query.
+
+## Related
+
+- [dext](https://github.com/vutran/dext) - The Dext smart launcher
 
 ## License
 
