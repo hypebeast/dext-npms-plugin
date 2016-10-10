@@ -28,6 +28,9 @@ module.exports = {
               title: i.module.name,
               subtitle: i.module.description,
               arg: i.module.links.homepage || i.module.links.npm,
+              text: {
+                copy: `npm install ${i.module.name}`,
+              },
               icon: {
                 path: './icon.png',
               }
