@@ -1,7 +1,7 @@
 
 {
   "name": "dext-npms-plugin",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Dext plugin to search npms.io for npm packages.",
   "keywords": [
     "dext",
